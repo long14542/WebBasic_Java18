@@ -1,0 +1,11 @@
+.box {
+    width: 600px;
+    height: 600px;
+    background-image: url('https://cdn1.nhatrangtoday.vn/images/photos/bai-bien-nha-trang-4.jpg');
+    background-size: cover;
+}
+
+#id {
+    color:aliceblue;
+    background-color: (255, 0, 255, 0.6);
+}
