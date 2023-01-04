@@ -1,0 +1,21 @@
+#title {
+color:brown; 
+text-transform: uppercase; 
+text-align: center;
+}
+
+#bold1 {
+    font-weight: 600;
+}
+
+#itl {
+    font-style: italic;
+}
+
+#right {
+    font-style: italic;
+}
+
+#bold2 {
+    font-weight: 600;
+}
