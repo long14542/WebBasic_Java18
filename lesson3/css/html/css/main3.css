@@ -5,7 +5,8 @@
     background-size: cover;
 }
 
-#id {
-    color:aliceblue;
-    background-color: (255, 0, 255, 0.6);
+#text {
+    color:aquamarine;
+    background-color: (255, 0, 255, 0.9);
+    text-align: center;
 }
