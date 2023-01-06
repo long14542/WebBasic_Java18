@@ -1,0 +1,8 @@
+li:first-child {
+    font-weight: bold;
+    background-color:aqua;
+}
+li:last-child {
+    color:brown;
+    background-color:rgb(190, 144, 144);
+}
