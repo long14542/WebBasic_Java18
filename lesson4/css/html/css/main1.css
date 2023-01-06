@@ -1,0 +1,22 @@
+.twoinlinebox {
+    margin: 12px;
+}
+#boxone {
+    padding: 0px 64px;
+    border: 2px solid aquamarine;
+    text-size-adjust: 100px;
+    margin: 10px;
+}
+#boxtwo {
+    padding: 24px 36px;
+    border: 2px solid brown;
+    text-size-adjust: 100px;
+    margin: 10px 36px;
+}
+.boxthree {
+    width: 480px;
+    border: 2px solid blue;
+    text-size-adjust: 100px;
+    margin-top: 48px;
+    padding-left: 24px;
+}
