@@ -6,3 +6,6 @@ li:last-child {
     color:brown;
     background-color:rgb(190, 144, 144);
 }
+div {
+    width: 200px;
+}

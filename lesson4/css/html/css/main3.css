@@ -1,0 +1,11 @@
+p {
+    background-color: aqua;
+    padding: 0px 20px;
+    margin: 0px;
+}
+p:not(:last-child) {
+    border-bottom: 2px solid;
+}
+div {
+    width: 150px;
+}

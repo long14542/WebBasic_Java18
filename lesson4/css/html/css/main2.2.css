@@ -1,0 +1,25 @@
+div {
+    background-color: aqua;
+    width: 145px;
+    height: 330px;
+    display: inline-block;
+}
+p:nth-child(3n+1) {
+    background-color: brown;
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+p:nth-child(3n+2) {
+    background-color: brown;
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+}
+p:nth-child(3n+3) {
+    background-color: brown;
+    width: 40px;
+    height: 40px;
+    margin-left: 100px;
+}
