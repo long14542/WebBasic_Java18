@@ -1,0 +1,52 @@
+.header {
+    background-color:black;
+    color:aliceblue;
+    height: 50px;
+}
+.h2 {
+  text-align: center;
+}
+#elehder {
+    text-align: center;
+    padding-top: 15px;
+}
+span {
+    padding-left: 20px;
+}
+.img {
+    width: 500px;
+    height: 600px;
+    margin-left: 100px;
+}
+.text {    
+    margin: -550px 0px 250px 900px ;
+    font-size: larger;
+}
+#str {
+    margin-left: -60px
+}
+#order {
+    background-color:rgb(215, 148, 66);
+    color: aliceblue;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    padding-top: 7px;
+    border-radius: 5px;   
+}
+.footer {
+    background-color: black;
+    color: aliceblue;
+    height: 100px;
+    text-align: center;
+    padding-top: 25px;
+}
+#findout {
+    background-color: rgb(215, 148, 66);
+    width: 300px;
+    height: 25px;
+    padding-top: 7px;
+    margin-left: 580px;
+    border-radius: 5px;
+
+}
