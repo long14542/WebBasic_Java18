@@ -2,6 +2,7 @@
     background-color: black;
     display: flex;
     height: 50px;
+    justify-content: space-between;
 }
 #div1 {
     display: flex;
@@ -9,7 +10,7 @@
 #fbicon {
     height: 40px;
     width: 40px;
-    border-radius: 20px;
+    border-radius: 25px;
     padding-top: 5px;
 }
 #srt {
