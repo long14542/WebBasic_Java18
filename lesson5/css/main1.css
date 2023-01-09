@@ -1,0 +1,62 @@
+.fbtaskbar {
+    background-color: black;
+    display: flex;
+    height: 50px;
+}
+.fbtaskbar:hover {
+    color: rgba(0, 102, 255, 0.645);
+}
+#div1 {
+    display: flex;
+}
+#fbicon {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    padding-top: 5px;
+}
+#srt {
+    width: 200px;
+    height: 20px;
+    border-radius: 7px;
+    margin-left: 5px;
+    margin-top: 15px;
+    background-color: rgb(155, 160, 165);
+    color:aliceblue;
+}
+#st {
+    width: 20px;
+    height: 20px;
+}
+#search {
+    
+}
+#tool {
+    display:flex;
+    gap: 70px;
+    color: aliceblue;
+    margin-left: 300px;
+    margin-top: 10px;
+    padding-right: 350px;
+}
+#home {
+    width: 30px;
+    height: 30px;
+}
+#last {
+    display:flex;
+    gap: 5px;
+    margin-right: 100px;
+    padding-top: 10px;
+}
+#box {
+    width: 30px;
+    height: 30px;
+    color:aliceblue;
+}
+#user {
+    height: 40px;
+    width: 40px;
+    border-radius: 25px;
+    padding-top: 1px;
+}
