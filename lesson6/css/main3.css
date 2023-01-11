@@ -8,10 +8,12 @@
     height: 20px;
     transform: skewX(20deg);
     transition: width 2s;
+    margin-top: 50px;
+    transition: translateY 4s;
 }
 #button:hover {
     width: 300px;
     transform: rotate(360deg);
     box-shadow: 20px 10px;
-    transform: translateY(-4);
+    transform: translateY(40px);
 }
