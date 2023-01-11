@@ -6,6 +6,7 @@
 }
 #div1 {
     display: flex;
+    margin-left: 5px;
 }
 #fbicon {
     height: 40px;
@@ -14,7 +15,7 @@
     padding-top: 5px;
 }
 #srt {
-    width: 200px;
+    width: 200px;justify-content: space-between;
     height: 30px;
     border-radius: 7px;
     background-color: rgb(155, 160, 165);
@@ -46,7 +47,7 @@
 #last {
     display:flex;
     gap: 5px;
-    margin-right: 100px;
+
 }
 #box {
     width: 30px;
@@ -64,8 +65,5 @@
     color: aqua;
 }
 #box:hover {
-    color: aqua;
-}
-#user:hover {
     color: aqua;
 }

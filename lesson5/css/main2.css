@@ -1,0 +1,28 @@
+.all {
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    height: 80px;
+}
+.one {
+    flex-direction: column;
+    gap: 30px;
+    background-color: rgb(157, 162, 167);
+    flex: 0 1 20%;
+}
+.two {
+    display: flex;
+    gap: 30px;
+    background-color: rgb(157, 162, 167);
+    flex: 0 1 40%;
+}
+.tp {
+    flex-direction: column;
+    gap: 30px;
+}
+.three {
+    flex-direction: column;
+    gap: 30px;
+    background-color: rgb(157, 162, 167);
+    flex: 0 1 20%;
+}
