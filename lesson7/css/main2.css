@@ -1,0 +1,13 @@
+#spinner {
+    border-radius: 30px;
+    width: 30px;
+    height: 30px;
+    animation-duration: 100000s;
+    border-left: 1px none;
+    border-bottom: 1px none;
+    border-right: 1px none;
+    animation-name: spin;
+}
+@keyframes spin {
+    100% {rotate: 360deg;}
+}
