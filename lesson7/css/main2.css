@@ -5,8 +5,8 @@
     color:rgb(54, 122, 181);
     /*animation-duration: 100s; */
 
-    border-left: 5px solid;
-    border-right: 5px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
     animation: spin1 3s infinite;
 }
 @keyframes spin1 {
