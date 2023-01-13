@@ -1,0 +1,10 @@
+#title::selection {
+    background-color: aliceblue;
+    color: aquamarine;
+}
+li::marker {
+    content: '💗';
+}
+#dis::after {
+    content: '💢';
+}
