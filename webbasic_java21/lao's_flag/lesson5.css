@@ -1,0 +1,22 @@
+.red {
+    height: 600px;
+    width: 900px;
+    background-color: rgb(189, 51, 51);
+    position: relative;
+}
+.purple {
+    position: absolute;
+    height: 300px;
+    width: 900px;
+    background-color: rgb(94, 7, 176);
+    top: 150px;
+}
+.white {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    top: 175px;
+    left: 325px;
+}

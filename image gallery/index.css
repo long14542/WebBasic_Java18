@@ -24,7 +24,8 @@
   }
   
 .gallery:hover {
-    border: 1px solid #777;
+    border: 1px solid #2a8199;
+    transform: rotate(180deg);
   }
   
 .gallery img {
